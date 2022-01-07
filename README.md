@@ -13,7 +13,7 @@ AwesomeScript是自用  [Quantumult X](https://github.com/crossutility/Quantumul
 ```bash
 https://raw.githubusercontent.com/FlechazoPh/AwesomeScripts/main/QuantumultX/Scripts/pure.baidu.user.js
 ```
-> 原版 userstyle 电脑插件：https://userstyles.org/styles/173673/pure
+> [原版 userstyle 电脑插件](https://userstyles.org/styles/173673/pure)
 
 ## 补充说明
 1. 转载请注明出处，谢谢！<br>
