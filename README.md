@@ -5,6 +5,8 @@
 
 AwesomeScript是自用  [Quantumult X](https://github.com/crossutility/Quantumult-X/) 脚本。在这里你可以订阅、下载并更新它们。
 
+【Telegram 群组】:airplane: https://t.me/github_chats <br>
+
 ## 使用说明
 
 ### 百度pure：
