@@ -8,6 +8,8 @@ AwesomeScript是自用  [Quantumult X](https://github.com/crossutility/Quantumul
 ## 使用说明
 
 ### 百度pure：
+说明：搜索/文库/知道/网盘/百科/经验/翻译/百家号 页面精简，防跳转百度APP
+脚本链接：
 ```bash
 https://raw.githubusercontent.com/FlechazoPh/AwesomeScripts/main/QuantumultX/Scripts/pure.baidu.user.js
 ```
