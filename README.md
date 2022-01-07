@@ -1,9 +1,9 @@
-# AwesomeScript
+# AwesomeScripts
 ![Logo](https://cdn.jsdelivr.net/gh/FlechazoPh/AwesomeScripts/Assets/Logo.PNG)
 
 ## 简介
 
-AwesomeScript是自用  [Quantumult X](https://github.com/crossutility/Quantumult-X/) 脚本。在这里你可以订阅、下载并更新它们。
+AwesomeScripts 是自用  [Quantumult X](https://github.com/crossutility/Quantumult-X/) 脚本。在这里你可以订阅、下载并更新它们。
 
 【Telegram 群组】:airplane: https://t.me/github_chats <br>
 
@@ -43,6 +43,7 @@ https://raw.githubusercontent.com/FlechazoPh/AwesomeScripts/main/QuantumultX/Scr
 2022-01-07<br>
 * 更新脚本<br>
 1. 更新 pure 百度
+2. 更新 README 文档
 <br>
 
 2022-01-07
