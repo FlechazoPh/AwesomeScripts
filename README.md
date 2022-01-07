@@ -59,3 +59,8 @@ https://raw.githubusercontent.com/FlechazoPh/AwesomeScripts/main/QuantumultX/Scr
 * [@0x7E](https://github.com/0x7E/rules-conf)
 
 ![FlechazoPh's github stats](https://github-readme-stats.vercel.app/api?username=FlechazoPh&show_icons=true&theme=vue-dark)
+
+
+## ★ Star 趋势 /Stargazers Over Time
+
+[![Stargazers over time](https://starchart.cc/FlechazoPh/QLDependency.svg)](https://starchart.cc/FlechazoPh/QLDependency)
