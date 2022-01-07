@@ -1,5 +1,5 @@
 # AwesomeScript
-
+![Logo](https://github.com/FlechazoPh/AwesomeScripts/blob/main/Assets/Logo.PNG)
 
 ## 简介
 
