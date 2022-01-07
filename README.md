@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/FlechazoPh/AwesomeScripts/main/QuantumultX/Scr
 4. 其它人通过任何方式登陆本网站或直接、间接使用 AwsomeScripts 项目相关资源，均应仔细阅读本声明，一旦使用、转载 AwsomeScripts 项目任何相关教程或资源，即被视为您已接受此免责声明。<br>
 </details>
 
-# 更新日志
+## 更新日志
 <details>
 <summary><strong>所有日志</strong></summary><br>
 <strong>v1.0</strong><br>
@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/FlechazoPh/AwesomeScripts/main/QuantumultX/Scr
 
 </details>
 
-###效果图预览
+## 效果图预览
 
 
 
