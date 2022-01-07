@@ -37,6 +37,8 @@ https://raw.githubusercontent.com/FlechazoPh/AwesomeScripts/main/QuantumultX/Scr
 2022-01-07
 更新 pure 百度
 
+</details>
+
 ###效果图预览
 
 
