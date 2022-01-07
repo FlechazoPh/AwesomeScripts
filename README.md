@@ -63,4 +63,4 @@ https://raw.githubusercontent.com/FlechazoPh/AwesomeScripts/main/QuantumultX/Scr
 
 ## ★ Star 趋势 /Stargazers Over Time
 
-[![Stargazers over time](https://starchart.cc/FlechazoPh/QLDependency.svg)](https://starchart.cc/FlechazoPh/QLDependency)
+[![Stargazers over time](https://starchart.cc/FlechazoPh/AwesomeScripts.svg)](https://starchart.cc/FlechazoPh/AwesomeScripts)
