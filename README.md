@@ -50,6 +50,9 @@ https://raw.githubusercontent.com/FlechazoPh/AwesomeScripts/main/QuantumultX/Scr
 
 ## 效果图预览
 
-
+## 特别感谢 ：
+* [@yqc007](https://github.com/yqc007/QuantumultX)
+* [@Orz-3](https://github.com/Orz-3/QuantumultX)
+* [@0x7E](https://github.com/0x7E/rules-conf)
 
 ![FlechazoPh's github stats](https://github-readme-stats.vercel.app/api?username=FlechazoPh&show_icons=true&theme=vue-dark)
