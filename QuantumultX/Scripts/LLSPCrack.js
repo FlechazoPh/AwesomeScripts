@@ -15,14 +15,15 @@
 [rewrite_local]
 
 # > 69萝莉解锁会员
-^https?:\/\/h5x\.370you\.me\/h5\/login\/loginAccount$ url script-response-body https://raw.githubusercontent.com/FlechazoPh/AwesomeScripts/master/QuantumultX/Scripts/LLSPCrack.js
+^https?:\/\/h5.*you.*\/h5\/login\/loginAccount$ url script-response-body https://raw.githubusercontent.com/yqc007/QuantumultX/master/LLSPCrack.js
 
 [mitm] 
 
-hostname = h5x.307you.me
+hostname = h5*you*
 *
 *
 */
+
 
 var body = $response.body;
     
