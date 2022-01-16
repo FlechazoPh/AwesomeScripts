@@ -2,7 +2,7 @@
  *
  *
 脚本功能：69萝莉网页版解锁会员
-网页地址：https://h5x.307you.me
+网页地址：https://h5x.307you.me http://h5.502you.me
 脚本作者：FlechazoPh
 更新时间：2022-01-16
 电报频道：https://t.me/github_chats
