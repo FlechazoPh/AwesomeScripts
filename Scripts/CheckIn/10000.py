@@ -1,4 +1,19 @@
+
 # -*- coding: utf-8 -*-
+"""
+
+const $ = new Env("电信签到任务");
+
+电信签到任务
+
+
+
+cron:
+
+46 9 * * * 10000.py
+
+"""
+
 import base64
 import requests,json
 import time
