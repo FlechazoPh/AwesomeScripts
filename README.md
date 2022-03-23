@@ -15,7 +15,7 @@ AwesomeScripts 是自用  [Quantumult X](https://github.com/crossutility/Quantum
 ```bash
 https://raw.githubusercontent.com/FlechazoPh/AwesomeScripts/main/QuantumultX/Scripts/pure.baidu.user.js
 ```
-> [原版 userstyle 电脑插件](https://userstyles.org/styles/173673/pure)
+> [userstyle 电脑版插件](https://userstyles.org/styles/173673/pure)
 
 ### 欧可林 Oclean app 自动签到得积分，积分兑换牙刷刷头
 说明："欧可林" app 自动签到得积分，支持 Quantumult X（理论上也支持 Surge、Loon，未尝试）。
