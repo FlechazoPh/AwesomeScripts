@@ -17,6 +17,14 @@ https://raw.githubusercontent.com/FlechazoPh/AwesomeScripts/main/QuantumultX/Scr
 ```
 > [原版 userstyle 电脑插件](https://userstyles.org/styles/173673/pure)
 
+### 欧可林 Oclean app 自动签到得积分，积分兑换牙刷刷头
+说明："欧可林" app 自动签到得积分，支持 Quantumult X（理论上也支持 Surge、Loon，未尝试）。
+脚本地址：
+```bash
+https://github.com/FlechazoPh/AwesomeScripts/tree/main/QuantumultX/Scripts/Task
+```
+
+
 ## 补充说明
 1. 转载请注明出处，谢谢！<br>
 2. 需要新增规则/脚本/配置，请提 Issues 或 Telegram 中发送使用说明名称并附上相关资源链接；<br>
