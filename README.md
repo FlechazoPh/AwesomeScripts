@@ -25,6 +25,14 @@ https://github.com/FlechazoPh/AwesomeScripts/tree/main/QuantumultX/Scripts/Task
 ```
 
 
+### 网易游戏直连分流
+说明：网易游戏直连分流
+规则地址：
+```
+https://raw.githubusercontent.com/FlechazoPh/AwesomeScripts/main/QuantumultX/Filter/NeteaseGame.list
+```
+
+
 ## 补充说明
 1. 转载请注明出处，谢谢！<br>
 2. 需要新增规则/脚本/配置，请提 Issues 或 Telegram 中发送使用说明名称并附上相关资源链接；<br>
