@@ -16,6 +16,7 @@ HOST-KEYWORD,game,DIRECT
 # USER-AGENT,NeteaseMusic*,DIRECT
 
 # DOMAIN,netease.ugcvideoss.ourdvs.com,DIRECT
+DOMAIN,mp.music.163.com,DIRECT
 
 DOMAIN-SUFFIX,nie.netease.com,DIRECT
 DOMAIN-SUFFIX,update.netease.com,DIRECT
@@ -25,3 +26,4 @@ DOMAIN-SUFFIX,matrix.netease.com,DIRECT
 DOMAIN-SUFFIX,game.163.com,DIRECT
 DOMAIN-SUFFIX,gameyw.163.com,DIRECT
 DOMAIN-SUFFIX,netease.im,DIRECT
+
