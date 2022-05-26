@@ -11,11 +11,9 @@
 HOST,appdump.nie.netease.com,DIRECT
 HOST,tdid.netease.com,DIRECT
 
-USER-AGENT,NeteaseMusic*,DIRECT
+#USER-AGENT,NeteaseMusic*,DIRECT
+
 DOMAIN,netease.ugcvideoss.ourdvs.com,DIRECT
 DOMAIN-SUFFIX,nie.netease.com,DIRECT
 DOMAIN-SUFFIX,update.netease.com,DIRECT
 DOMAIN-SUFFIX,mpay.netease.com,DIRECT
-
-
-
