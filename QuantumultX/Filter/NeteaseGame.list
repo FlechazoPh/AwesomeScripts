@@ -2,11 +2,11 @@
 # AUTHOR: @FlechazoPh https://github.com/FlechazoPh
 # GITHUB: https://raw.githubusercontent.com/FlechazoPh/AwesomeScripts/main/QuantumultX/Filter/NeteaseGame.list
 # UPDATED: 2022-05-26 13:31:30
-# HOST-SUFFIX: 0
+# HOST-SUFFIX: 8
 # IP-CIDR: 0
 # HOST: 2
 # USER-AGENT: 0
-# TOTAL: 58
+# TOTAL: 10
 
 HOST,appdump.nie.netease.com,DIRECT
 HOST,tdid.netease.com,DIRECT
