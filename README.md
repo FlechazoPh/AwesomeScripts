@@ -74,6 +74,15 @@ https://raw.githubusercontent.com/FlechazoPh/AwesomeScripts/main/QuantumultX/Fil
 * [@Orz-3](https://github.com/Orz-3/QuantumultX)
 * [@0x7E](https://github.com/0x7E/rules-conf)
 
+
+## 鸣谢
+
+感谢 [JetBrains](https://www.jetbrains.com/?from=AwesomeScripts) 提供的 free JetBrains Open Source license
+
+[![JetBrains-logo](https://i.loli.net/2020/10/03/E4h5FZmSfnGIgap.png)](https://www.jetbrains.com/?from=AwesomeScripts)
+
+
+
 ![FlechazoPh's github stats](https://github-readme-stats.vercel.app/api?username=FlechazoPh&show_icons=true&theme=vue-dark)
 
 
