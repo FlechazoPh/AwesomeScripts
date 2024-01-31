@@ -49,7 +49,7 @@ def js_to_sgmodule(js_content):
         else:
             raise ValueError("文件内容匹配错误，请按照要求修改，详情请按照levifree.tech文章内容修改")
 
-        project_desc = f"{project_name} is automatically converted by LEVI SCRIPT; if not available plz use Script-Hub."
+        project_desc = f"{project_name} is automatically converted by github@FlechazoPh SCRIPT; if not available plz use Script-Hub."
 
     else:
         project_name = name_match.group(1).strip()
