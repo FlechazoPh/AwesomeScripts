@@ -33,7 +33,7 @@ jobs:
       - name: Run script
         run: python .github/scripts/convert_js_to_sgmodule.py
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
 
       - name: Archive artifacts
         uses: actions/upload-artifact@v2
@@ -50,4 +50,4 @@ jobs:
           git commit -m "已转换为sgmodule文件"
           git push origin HEAD:main --force
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
