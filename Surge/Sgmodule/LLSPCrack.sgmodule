@@ -1,5 +1,5 @@
 #!name=LLSPCrack
-#!desc=LLSPCrack is automatically converted by LEVI SCRIPT; if not available plz use Script-Hub.
+#!desc=LLSPCrack is automatically converted by github@FlechazoPh SCRIPT; if not available plz use Script-Hub.
 [MITM]
 hostname = %APPEND% h5*you*
 [Script]
