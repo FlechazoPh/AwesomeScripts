@@ -1,0 +1,59 @@
+#!name=pure.baidu.user
+#!desc=pure.baidu.user is automatically converted by LEVI SCRIPT; if not available plz use Script-Hub.
+[MITM]
+
+[Script]
+pure.baidu.user = type=http-response,pattern=http:\/\/m\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/m\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/.*\.m\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/.*\.m\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/www\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/www\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/.*\.www\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/.*\.www\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/wapbaike\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/wapbaike\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/.*\.wapbaike\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/.*\.wapbaike\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/baike\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/baike\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/.*\.baike\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/.*\.baike\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/m\.baidu\.com\/?tn=simple.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/m\.baidu\.com\/?tn=simple.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/mbd\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/mbd\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/.*\.mbd\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/.*\.mbd\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/pae\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/pae\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/.*\.pae\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/.*\.pae\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/baijiahao\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/baijiahao\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/.*\.baijiahao\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/.*\.baijiahao\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/haokan\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/haokan\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/.*\.haokan\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/.*\.haokan\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/mobile\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/mobile\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/.*\.mobile\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/.*\.mobile\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/zhidao\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/zhidao\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/.*\.zhidao\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/.*\.zhidao\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/wk\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/wk\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/.*\.wk\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/.*\.wk\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/fanyi\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/fanyi\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/.*\.fanyi\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/.*\.fanyi\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/jingyan\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/jingyan\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=http:\/\/.*\.jingyan\.baidu\.com\/.*,script-path=pure.baidu.user.js
+pure.baidu.user = type=http-response,pattern=https:\/\/.*\.jingyan\.baidu\.com\/.*,script-path=pure.baidu.user.js

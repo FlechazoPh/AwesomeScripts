@@ -1,0 +1,6 @@
+#!name=LLSPCrack
+#!desc=LLSPCrack is automatically converted by LEVI SCRIPT; if not available plz use Script-Hub.
+[MITM]
+hostname = %APPEND% h5*you*
+[Script]
+LLSPCrack = type=http-response,pattern=^https?:\/\/h5.*you.*\/h5\/login\/loginAccount$,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/LLSPCrack.js
