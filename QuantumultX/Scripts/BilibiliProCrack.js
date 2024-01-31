@@ -1,0 +1,13 @@
+var modifiedHeaders = $request['headers'];
+//modifiedHeaders['Cookie'] = '';
+modifiedHeaders['x-bili-device-bin'] = 'CAEQxP6wJBokWTM0MDZFM0YyRjQxQTkwRjQ4MDVBRjg3QjIwMzYyOUM1MzIwIgZpcGhvbmUqA2lvczIFcGhvbmU6BWFwcGxlQgVBcHBsZUoNaVBob25lIDEyIFByb1IGMTUuMS4xagY3LjYzLjByQEFFMkEwNDM4RTI0NTBDRTNDNTU1NjlEOTAzQUUxRjlBMjAyMjEwMDUwOTMyNDMzQTRCRTkxMkQ2Qzg3MzIxNzd49uf1w7Yx';
+modifiedHeaders['authorization'] = 'identify_v1 05880383118cb5400ef7628457fed012CjDokRejvVrEIsy3_WDx3hmk186yfKvngGZ-WUriNtzZ5pCqw18V-qpxTc3Jd4_pAaASVmJ4TFZkNEdZQjF4UGhaLVlPZXRFaWtNSlM0WmR1X1J1YmdOSjBtanBPVFBIckxSU1JpZ1k5Q01XNGpIN0FMUmxJZXR4S1FZMmtlNHlUMGluZWZORnNBIIEC';
+modifiedHeaders['user-agent'] = 'bili-universal/76300100 os/ios model/iPhone 12 Pro mobi_app/iphone osVer/15.1.1 network/2 grpc-objc-cronet/1.47.0 grpc-c/25.0.0 (ios; cronet_http)';
+modifiedHeaders['buvid'] = 'Y3406E3F2F41A90F4805AF87B203629C5320';
+modifiedHeaders['x-bili-metadata-bin'] = 'CtwBMDU4ODAzODMxMThjYjU0MDBlZjc2Mjg0NTdmZWQwMTJDakRva1JlanZWckVJc3kzX1dEeDNobWsxODZ5Zkt2bmdHWi1XVXJpTnR6WjVwQ3F3MThWLXFweFRjM0pkNF9wQWFBU1ZtSjRURlprTkVkWlFqRjRVR2hhTFZsUFpYUkZhV3ROU2xNMFdtUjFYMUoxWW1kT1NqQnRhbkJQVkZCSWNreFNVMUpwWjFrNVEwMVhOR3BJTjBGTVVteEpaWFI0UzFGWk1tdGxOSGxVTUdsdVpXWk9Sbk5CSUlFQxIGaXBob25lGgVwaG9uZSDE/rAkKgVhcHBsZTIkWTM0MDZFM0YyRjQxQTkwRjQ4MDVBRjg3QjIwMzYyOUM1MzIwOgNpb3M';
+modifiedHeaders['x-bili-locale-bin'] = 'Eg4KAnpoEgRIYW5zGgJDTg';
+modifiedHeaders['x-bili-network-bin'] = 'CAE';
+modifiedHeaders['x-bili-fawkes-req-bin'] = 'CgZpcGhvbmUSBHByb2QaCDliMjNmMTZh';
+modifiedHeaders['x-bili-trace-id'] = '565febec256ec558555254583865a3b5:555254583865a3b5:0:0';
+modifiedHeaders['x-bili-exps-bin'] = '';
+$done({'headers': modifiedHeaders});

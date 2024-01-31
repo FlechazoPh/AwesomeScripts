@@ -1,0 +1,13 @@
+var modifiedHeaders = $request['headers'];
+modifiedHeaders['Cookie'] = 'buvid4=BD3C4180-612E-CFFF-CB85-0EEC573CEA6108369-123010414-6du7fZxNh1anfz3KvJfbXQ%3D%3D; buvid_fp=6a09c71bdf2c74a6955ff2d0a995327a; buvid3=B0AD31DF-0AEF-4F44-80E6-D4A0A77689E4148812infoc; fingerprint=421b3f44f6abc3bdbd0a577d7d03c9e4; b_nut=100; Buvid=e90ced9b01c592365b151fd6f0fbf6fe; DedeUserID=7057062; DedeUserID__ckMd5=043762636cca5294; SESSDATA=fe98594a%2C1720984954%2Cc84af312CjBMjPW8hqWJR0S2uS3AVLzVxc8jcSJe-mdLGGK_4Vc02HF9UYvU0SNiyNq9vsCt5P0SVm1BTXdyUkdJM0xEYUwxUkRqS0I1VFM1LUUxWm5ielVCd2w1enVzMTNfRXZGODl6X3JseFpmbU1DSWVuS0t0alZDUUh4Q2ctQ3A4UEZxa2NSS0R4UU9RIIEC; bili_jct=58461e092c6cb95f1f096cc83e49a2de; sid=7z1ssg06';
+modifiedHeaders['x-bili-device-bin'] = 'CAEQpNLhIxogZTkwY2VkOWIwMWM1OTIzNjViMTUxZmQ2ZjBmYmY2ZmUiBmlwaG9uZSoDaW9zMgVwaG9uZToFYXBwbGVCBUFwcGxlSg1pUGhvbmUgMTQgUHJvUgYxNy4xLjFqBjcuNTAuMHJANTYxRjJCQTIxQzUxQkQ0MUEwRjlFQjY0NzM4MzM1MEEyMDIxMTIxODE1MDEyOEIwOTQwODhEMUE0NzhEMTM0RHiC2euGlTA=';
+modifiedHeaders['Authorization'] = 'identify_v1 f648e22e755520abf9fd795c8068a612CjBMjPW8hqWJR0S2uS3AVLzVxc8jcSJe-mdLGGK_4Vc02HF9UYvU0SNiyNq9vsCt5P0SVm1BTXdyUkdJM0xEYUwxUkRqS0I1VFM1LUUxWm5ielVCd2w1enVzMTNfRXZGODl6X3JseFpmbU1DSWVuS0t0alZDUUh4Q2ctQ3A4UEZxa2NSS0R4UU9RIIEC';
+modifiedHeaders['User-Agent'] = 'bili-universal/75000100 os/ios model/iPhone 14 Pro mobi_app/iphone osVer/17.1.1 network/2';
+modifiedHeaders['buvid'] = 'e90ced9b01c592365b151fd6f0fbf6fe';
+modifiedHeaders['x-bili-metadata-bin'] = 'CtwBZjY0OGUyMmU3NTU1MjBhYmY5ZmQ3OTVjODA2OGE2MTJDakJNalBXOGhxV0pSMFMydVMzQVZMelZ4YzhqY1NKZS1tZExHR0tfNFZjMDJIRjlVWXZVMFNOaXlOcTl2c0N0NVAwU1ZtMUJUWGR5VWtkSk0weEVZVXd4VWtScVMwSTFWRk0xTFVVeFdtNWllbFZDZDJ3MWVuVnpNVE5mUlhaR09EbDZYM0pzZUZwbWJVMURTV1Z1UzB0MGFsWkRVVWg0UTJjdFEzQTRVRVp4YTJOU1MwUjRVVTlSSUlFQxIGaXBob25lGgVwaG9uZSCk0uEjKgVhcHBsZTIgZTkwY2VkOWIwMWM1OTIzNjViMTUxZmQ2ZjBmYmY2ZmU6A2lvcw==';
+modifiedHeaders['x-bili-locale-bin'] = 'Eg4KAnpoEgRIYW5zGgJDTg==';
+modifiedHeaders['x-bili-network-bin'] = 'CAE=';
+modifiedHeaders['x-bili-fawkes-req-bin'] = 'CgZpcGhvbmUSBHByb2QaCGJmYTIzNzlh';
+modifiedHeaders['x-bili-trace-id'] = '241fc4578f0547df60736d902b65a7ec:60736d902b65a7ec:0:0';
+modifiedHeaders['x-bili-exps-bin'] = '';
+$done({'headers': modifiedHeaders});
