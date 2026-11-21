@@ -1,10 +1,6 @@
 #!name=Tailscale 桥接
-#!desc=开启后 Surge 内置 Tailscale 接入 tailnet，100.64.0.0/10 走 My Tailnet，可访问家里 Windows 桥接 100.96.191.60:8765；关闭后恢复原状。需先在主配置 [Proxy] 加一行：My Tailnet = tailscale, section-name=my-tailnet（已在 v8 配置里加好）。
+#!desc=开启后 Surge 内置 Tailscale 接入 tailnet，100.64.0.0/10 走 My Tailnet，可访问家里 Windows 桥接 100.96.191.60:8765；关闭后恢复原状。Tailscale 登录用主配置 [Tailscale my-tailnet] 里的 auth-key，本模块不含任何密钥。
 [General]
 skip-proxy = 127.0.0.0/8, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 162.14.0.0/16, 211.99.96.0/19, 162.159.192.0/24, 162.159.193.0/24, 162.159.195.0/24, fc00::/7, fe80::/10, localhost, *.local, captive.apple.com, passenger.t3go.cn, *.ccb.com, wxh.wo.cn, *.abcchina.com, *.abcchina.com.cn
 [Rule]
 IP-CIDR,100.64.0.0/10,My Tailnet,no-resolve
-[Tailscale my-tailnet]
-interactive-login = true
-hostname = surge-iphone
-auto-add-magic-dns-rule = true
